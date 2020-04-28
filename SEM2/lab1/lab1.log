@@ -1,0 +1,644 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2019.3.27)  25 MAR 2020 22:00
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**lab1.tex
+(./lab1.tex
+LaTeX2e <2018-12-01>
+(c:/texlive/2018/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(c:/texlive/2018/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(c:/texlive/2018/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(c:/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(c:/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(c:/texlive/2018/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(c:/texlive/2018/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2018/11/13 3.27 The Babel package
+
+(c:/texlive/2018/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2018/11/13 3.27 Babel switching mechanism
+)
+(c:/texlive/2018/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+(c:/texlive/2018/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2018/11/13 3.27 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen105
+
+(c:/texlive/2018/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count89
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)
+(c:/texlive/2018/texmf-dist/tex/generic/babel-russian/russianb.ldf
+Language: russian 2017/08/12 1.3j Russian support for the Babel system
+
+
+Package babel Warning: No Cyrillic font encoding has been loaded so far.
+(babel)                A font encoding should be declared before babel.
+(babel)                Default `T2A' encoding will be loaded  on input line 74.
+
+
+(c:/texlive/2018/texmf-dist/tex/latex/cyrillic/t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+Now handling font encoding T2A ...
+... processing UTF-8 mapping file for font encoding T2A
+
+(c:/texlive/2018/texmf-dist/tex/latex/base/t2aenc.dfu
+File: t2aenc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0407 (decimal 1031)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040E (decimal 1038)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0457 (decimal 1111)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045E (decimal 1118)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0490 (decimal 1168)
+   defining Unicode char U+0491 (decimal 1169)
+   defining Unicode char U+0492 (decimal 1170)
+   defining Unicode char U+0493 (decimal 1171)
+   defining Unicode char U+0496 (decimal 1174)
+   defining Unicode char U+0497 (decimal 1175)
+   defining Unicode char U+0498 (decimal 1176)
+   defining Unicode char U+0499 (decimal 1177)
+   defining Unicode char U+049A (decimal 1178)
+   defining Unicode char U+049B (decimal 1179)
+   defining Unicode char U+049C (decimal 1180)
+   defining Unicode char U+049D (decimal 1181)
+   defining Unicode char U+04A0 (decimal 1184)
+   defining Unicode char U+04A1 (decimal 1185)
+   defining Unicode char U+04A2 (decimal 1186)
+   defining Unicode char U+04A3 (decimal 1187)
+   defining Unicode char U+04A4 (decimal 1188)
+   defining Unicode char U+04A5 (decimal 1189)
+   defining Unicode char U+04AA (decimal 1194)
+   defining Unicode char U+04AB (decimal 1195)
+   defining Unicode char U+04AE (decimal 1198)
+   defining Unicode char U+04AF (decimal 1199)
+   defining Unicode char U+04B0 (decimal 1200)
+   defining Unicode char U+04B1 (decimal 1201)
+   defining Unicode char U+04B2 (decimal 1202)
+   defining Unicode char U+04B3 (decimal 1203)
+   defining Unicode char U+04B6 (decimal 1206)
+   defining Unicode char U+04B7 (decimal 1207)
+   defining Unicode char U+04B8 (decimal 1208)
+   defining Unicode char U+04B9 (decimal 1209)
+   defining Unicode char U+04BA (decimal 1210)
+   defining Unicode char U+04BB (decimal 1211)
+   defining Unicode char U+04C0 (decimal 1216)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D4 (decimal 1236)
+   defining Unicode char U+04D5 (decimal 1237)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04D8 (decimal 1240)
+   defining Unicode char U+04D9 (decimal 1241)
+   defining Unicode char U+04DA (decimal 1242)
+   defining Unicode char U+04DB (decimal 1243)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04E8 (decimal 1256)
+   defining Unicode char U+04E9 (decimal 1257)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2423 (decimal 9251)
+))
+Package babel Info: Making " an active character on input line 120.
+Package babel Info: Default for \cyrdash is provided on input line 157.
+))
+(c:/texlive/2018/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
+\c@tracingmulticols=\count90
+\mult@box=\box27
+\multicol@leftmargin=\dimen106
+\c@unbalance=\count91
+\c@collectmore=\count92
+\doublecol@number=\count93
+\multicoltolerance=\count94
+\multicolpretolerance=\count95
+\full@width=\dimen107
+\page@free=\dimen108
+\premulticols=\dimen109
+\postmulticols=\dimen110
+\multicolsep=\skip43
+\multicolbaselineskip=\skip44
+\partial@page=\box28
+\last@line=\box29
+\maxbalancingoverflow=\dimen111
+\mult@rightbox=\box30
+\mult@grightbox=\box31
+\mult@gfirstbox=\box32
+\mult@firstbox=\box33
+\@tempa=\box34
+\@tempa=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\c@columnbadness=\count96
+\c@finalcolumnbadness=\count97
+\last@try=\dimen112
+\multicolovershoot=\dimen113
+\multicolundershoot=\dimen114
+\mult@nat@firstbox=\box51
+\colbreak@box=\box52
+\mc@col@check@num=\count98
+)
+(c:/texlive/2018/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count99
+\lst@gtempboxa=\box53
+\lst@token=\toks17
+\lst@length=\count100
+\lst@currlwidth=\dimen115
+\lst@column=\count101
+\lst@pos=\count102
+\lst@lostspace=\dimen116
+\lst@width=\dimen117
+\lst@newlines=\count103
+\lst@lineno=\count104
+\lst@maxwidth=\dimen118
+
+(c:/texlive/2018/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
+\c@lstnumber=\count105
+\lst@skipnumbers=\count106
+\lst@framebox=\box54
+)
+(c:/texlive/2018/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2018/09/02 1.7 listings configuration
+))
+Package: listings 2018/09/02 1.7 (Carsten Heinz)
+
+(c:/texlive/2018/texmf-dist/tex/latex/realboxes/realboxes.sty
+Package: realboxes 2011/08/08 v0.2 Change box commands to read there content as
+ real boxes
+
+(c:/texlive/2018/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box55
+)
+(c:/texlive/2018/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+
+(c:/texlive/2018/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(c:/texlive/2018/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(c:/texlive/2018/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count107
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))))
+(c:/texlive/2018/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count108
+\float@exts=\toks20
+\float@box=\box56
+\@float@everytoks=\toks21
+\@floatcapt=\box57
+)
+(c:/texlive/2018/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen119
+\WF@size=\dimen120
+\c@WF@wrappedlines=\count109
+\WF@box=\box58
+\WF@everypar=\toks22
+Package: wrapfig 2003/01/31  v 3.6
+)
+(c:/texlive/2018/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2019/01/04 v1.2 Adjusting TeX boxes (trim, clip, ...)
+
+(c:/texlive/2018/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2018/04/08 v1.1 Trim and clip general TeX material
+\tc@llx=\dimen121
+\tc@lly=\dimen122
+\tc@urx=\dimen123
+\tc@ury=\dimen124
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(c:/texlive/2018/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen125
+\adjbox@Height=\dimen126
+\adjbox@Depth=\dimen127
+\adjbox@Totalheight=\dimen128
+\adjbox@pwidth=\dimen129
+\adjbox@pheight=\dimen130
+\adjbox@pdepth=\dimen131
+\adjbox@ptotalheight=\dimen132
+
+(c:/texlive/2018/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count110
+)
+(c:/texlive/2018/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box59
+\sift@deathcycles=\count111
+\@vwid@loff=\dimen133
+\@vwid@roff=\dimen134
+))
+(c:/texlive/2018/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(c:/texlive/2018/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count112
+\c@Blindtext=\count113
+\c@blind@countparstart=\count114
+\blind@countxx=\count115
+\blindtext@numBlindtext=\count116
+\blind@countyy=\count117
+\c@blindlist=\count118
+\c@blindlistlevel=\count119
+\c@blindlist@level=\count120
+\blind@listitem=\count121
+\c@blind@listcount=\count122
+\c@blind@levelcount=\count123
+\blind@mathformula=\count124
+\blind@Mathformula=\count125
+\c@blind@randomcount=\count126
+\c@blind@randommax=\count127
+\c@blind@pangramcount=\count128
+\c@blind@pangrammax=\count129
+)
+(c:/texlive/2018/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip45
+\subfigcapskip=\skip46
+\subfigcaptopadj=\dimen135
+\subfigbottomskip=\skip47
+\subfigcapmargin=\dimen136
+\subfiglabelskip=\skip48
+\c@subfigure=\count130
+\c@lofdepth=\count131
+\c@subtable=\count132
+\c@lotdepth=\count133
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(c:/texlive/2018/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip49
+\subfig@bottom=\skip50
+)
+(c:/texlive/2018/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(c:/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count134
+\rotFPtop=\skip51
+\rotFPbot=\skip52
+\rot@float@box=\box60
+\rot@mess@toks=\toks23
+)
+(c:/texlive/2018/texmf-dist/tex/latex/rotfloat/rotfloat.sty
+Package: rotfloat 2004/01/04 v1.2 Combining float+rotating package (AS)
+Package rotfloat Info: float package v1.3 detected on input line 74.
+) (./lab1.aux
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 4.
+
+(c:/texlive/2018/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+\openout1 = `lab1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+
+(c:/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count135
+\scratchdimen=\dimen137
+\scratchbox=\box61
+\nofMPsegments=\count136
+\nofMParguments=\count137
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count138
+\MPscratchDim=\dimen138
+\MPnumerator=\count139
+\makeMPintoPDFobject=\count140
+\everyMPtoPDFconversion=\toks25
+) (c:/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(c:/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(c:/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2018/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(c:/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count141
+\ML=\skip53
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 43.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 43.
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--48
+[]$
+ []
+
+[1
+
+{c:/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<test.jpg, id=10, 843.15pt x 632.3625pt>
+File: test.jpg Graphic file (type jpg)
+<use test.jpg>
+Package pdftex.def Info: test.jpg  used on input line 83.
+(pdftex.def)             Requested size: 241.49895pt x 181.12254pt.
+ [1]
+Overfull \hbox (1.16547pt too wide) in paragraph at lines 91--94
+\T2A/cmr/m/n/10 Помимо это-го, вы-пол-не-но по-стро-е-ние гра-фи-ков ин-тер-по-
+ля-ци-он-но-го при раз-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--94
+
+ []
+
+[2 <./test.jpg>] [3] (./lab1.aux) ) 
+Here is how much of TeX's memory you used:
+ 5775 strings out of 493875
+ 81479 string characters out of 6164711
+ 166892 words of memory out of 5000000
+ 9367 multiletter control sequences out of 15000+600000
+ 8451 words of font info for 20 fonts, out of 8000000 for 9000
+ 497 hyphenation exceptions out of 8191
+ 41i,7n,37p,550b,281s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2018/texmf-dist/fonts/enc/dvips/
+cm-super/cm-super-t2a.enc}<c:/texlive/2018/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmex10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
+i10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c
+:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/
+2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2018/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2018/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2018/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmsy7.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfbx144
+0.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfcc1200.pfb><c:/
+texlive/2018/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/20
+18/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2018/texmf-d
+ist/fonts/type1/public/cm-super/sfrm1728.pfb>
+Output written on lab1.pdf (4 pages, 178572 bytes).
+PDF statistics:
+ 75 PDF objects out of 1000 (max. 8388607)
+ 53 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
